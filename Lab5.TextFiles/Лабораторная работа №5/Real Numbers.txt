@@ -1,0 +1,7 @@
+All numbers:
+-59 -33 34 0 69 24 -22 58 62 -36 5 45 -19 -73 61 
+
+Numbers with even indeces: 
+-33 0 24 58 -36 45 -73 
+
+Minimum of the numbers with even indeces: -73

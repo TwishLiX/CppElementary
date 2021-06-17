@@ -1,0 +1,9 @@
+Information about the programmers who are less than 25 years old:
+
+Name : Ivanov G G
+Gender : male
+Birthdate : 28.2.2001 (19 years old)
+Nationality : asyugdyuasd
+Education : Bachelor
+Phone number : 34345345345
+-------------------------------------

@@ -1,0 +1,16 @@
+The 1 programmer : 
+Name : Ivanov G G
+Gender : male
+Birthdate : 28.2.2001 (19 years old)
+Nationality : asyugdyuasd
+Education : Bachelor
+Phone number : 34345345345
+-------------------------------------
+The 2 programmer : 
+Name : Petrov V A
+Gender : male
+Birthdate : 2.3.1950 (70 years old)
+Nationality : sdjkbjksdf
+Education : Master
+Phone number : 45645646
+-------------------------------------
